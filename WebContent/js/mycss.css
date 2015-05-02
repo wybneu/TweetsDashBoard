@@ -1,0 +1,4 @@
+th.ui-table-cell-hidden,
+td.ui-table-cell-hidden {
+  display: none;
+}
