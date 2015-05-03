@@ -3,11 +3,9 @@ This is a tweets anaysis server for mobiles and pad to read the most best and wo
 
 ## Synopsis
 ###### Motivation
-In recent year, twitter has been a popular way to communicate and spread information. Real time tweets dashboard presented on mobile browser is an efficient and useful tool.
+In recent year, twitter has been a popular way to communicate and spread information. Real time tweets dashboard presented on mobile browser is an efficient and useful tool for others to know recent event. This dashborad would present the current twitters on the internet by a 
 ###### Orignal
-This is a project I made in Melbourne Unviersity.
-
-Thanks for my mentor: *Dr Aaron Harwood* and appreciate with my teammate: *Lumina*
+This is a project I made in Melbourne Unviersity. Thanks for my mentor: *Dr Aaron Harwood* and appreciate with my teammate: *Lumina*
 ###### Functional features
 - The browser could present **real-time update** tweets speed.
 - The browser could update **real-time top ten positive and negative tweets** and the hottest users
@@ -28,6 +26,8 @@ JustGage: Code by JavaScript which is used for generating the gage.
 ###### Library
 ###### API
 ###### Code
+###### Examples
+
 
 ## Installation
 
@@ -42,5 +42,5 @@ JustGage: Code by JavaScript which is used for generating the gage.
 
 
 ## License
-
+This is a project built within a research group in Melbourne University. All the right belong to Melbourne University. Please **do not** copy and using it as both commercial and academic using.
 
