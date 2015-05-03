@@ -46,7 +46,8 @@ then open the browserand  type:
 ```
 	http://localhost:8080/TweetsDashBoard/ 
 ```
-**tips**: The browser should open after the server started, if the server down, the tomcat need to restart to reset the webserver and You can also load the project by using your eclispe by using the loding project function.
+- **tips**: The browser should open after the server started, if the server down, the tomcat need to restart to reset the webserver and You can also load the project by using your eclispe by using the loding project function.
+- **file you need**: you need a data file or datastream come from the tweets. The datastream should be a datastream come from tweets by using your token in twitter.The datastream should be already format as a JSON object.
 
 ## Tests
 We use JMeter to a standard anaysis about the project. the average response time is only 22 milliseconds. It is really fast response time that showed on the graph, and the system could handle at least 1000 connection at the same time efficiently.
