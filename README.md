@@ -32,7 +32,6 @@ JavaScript (JQuery,JQuery mobile, AJAX, JustGage.js)
 ###### Examples
 
 ## Installation
-To install this system (need tomcat been installed)
 1.copy wrap/tweetsDashBoard.war into the tomcat/webapps
 2.start tomcat
 3.start the server (support stanard input)
