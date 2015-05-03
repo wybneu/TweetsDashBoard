@@ -42,7 +42,7 @@ JustGage: Code by JavaScript which is used for generating the gage.
 
 
 ## License
-This is a project based on learning and studying. Not for any kind of commecial using. This is a project built within a research group in Melbourne University. Please **do not** copy and using it as both commercial and **academic** using directly. This would be a terrible copyright problem if you using the coding in your assignment. 
+This is a project based on learning and studying. Not for any kind of commecial using. This is a project built within a research group in Melbourne University. Please **do not** copy and using it as both commercial and **academic** using directly.  
 ######Other API license
 - [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
 - [Java Binary Code License Agreement](http://www.oracle.com/technetwork/java/javase/terms/license/index.html)
