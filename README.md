@@ -3,7 +3,7 @@ This is a tweets anaysis server for mobiles and pad to read the most best and wo
 
 ## Synopsis
 ###### Motivation
-In recent year, twitter has been a popular way to communicate and spread information. Real time tweets dashboard presented on mobile browser is an efficient and useful tool for others to know recent event. This dashborad would present the current twitters on the internet by a 
+In recent year, twitter has been a popular way to communicate and spread information. Real time tweets dashboard presented on mobile browser is an efficient and useful tool for others to know recent event. This dashboard would present the current tweets on the internet by a efficient way by providing the tweeted speed per second, per hour, per day and year. It also will cost the most positive and negative tweets and list the top 10 tweets for them. Customer could easily understanding the current most popular tweets and what's people opinion about them as a data-mining method.
 ###### Orignal
 This is a project I made in Melbourne Unviersity. Thanks for my mentor: *Dr Aaron Harwood* and appreciate with my teammate: *Lumina*
 ###### Functional features
@@ -23,23 +23,25 @@ The server would run in the Tomcat 7.0.2 and above.
 JQuery technology would be used for build the web page to make it more suitable for mobile users
 JustGage: Code by JavaScript which is used for generating the gage.
 ###### Lanugae
-###### Library
-###### API
+Java (J2EE)
+JavaScript (JQuery,JQuery mobile, AJAX, JustGage.js)
+###### API & Library
+[JustGage](justGage.com)
+[JQuery Moblie](https://jquerymobile.com/)
 ###### Code
 ###### Examples
-
 
 ## Installation
 
 
-## API Reference
-
-
 ## Tests
+We use JMeter to a standard anaysis about the project. the average response time is only 22 milliseconds. It is really fast response time that showed on the graph, and the system could handle at least 1000 connection at the same time efficiently.
+The Throughput is growing almost as linearity. After 1minute, the Throughput would keep at the lev-el of 22,032 per minute. It is a really great throughput.
 
 
 ## Contributors
-
+- Dr Aaron Harwood 
+- Lumina (Danping Lei)
 
 ## License
 This is a project based on learning and studying. Not for any kind of commecial using. This is a project built within a research group in Melbourne University. Please **do not** copy and using it as both commercial and **academic** using directly.  
