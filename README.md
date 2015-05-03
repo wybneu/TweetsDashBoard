@@ -32,7 +32,23 @@ JavaScript (JQuery,JQuery mobile, AJAX, JustGage.js)
 ###### Examples
 
 ## Installation
-
+To install this system
+1. copy wrap/tweetsDashBoard.war into the tomcat/webapps
+2. start tomcat
+3. start the server (support stanard input)
+...
+   java tomcat_folder/webapps/TweetsDashBoard/WEB-INF/classes/Processing [-help|-version|-offline|-online|-file filefullpath]
+...
+4. in the unix system, using
+...
+   cat inputstream > java tomcat/webapps/TweetsDashBoard/WEB-INF/classes/Processing [-online|-offline]
+...
+5. open the browserand  type:
+...
+	http://localhost:8080/TweetsDashBoard/ 
+... 
+6. tips: The browser should open after the server started, if the server down, the tomcat need to restart to reset the webserver
+7. You can also load the project by using your eclispe by using the loding project function.
 
 ## Tests
 We use JMeter to a standard anaysis about the project. the average response time is only 22 milliseconds. It is really fast response time that showed on the graph, and the system could handle at least 1000 connection at the same time efficiently.
